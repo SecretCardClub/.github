@@ -7,9 +7,7 @@ An iOS playing card sandbox game for up to 8 players. It allows users to play mo
 The app was build using React-Native, Expo, Styled Components, uWebSockets, PostgreSQL, and Express. 
 
  <br/><br/>
- <p align="center"><img src="./profile/holdem.png" alt="card app image" width="60%" height="auto" />  </p>
   <p align="center"><img src="/profile/holdem.png" alt="card app image" width="60%" height="auto" />  </p>
-   <p align="center"><img src=".github/profile/holdem.png" alt="card app image" width="60%" height="auto" />  </p>
 
 <!--
 
