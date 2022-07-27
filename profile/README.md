@@ -1,4 +1,10 @@
-## Hi there 👋
+# Secret Card Club
+
+## What is it?
+An iOS playing card sandbox game for up to 8 players. 
+
+ <br/><br/>
+ <p align="center"><img src="./holdem.png" alt="card app image" width="60%" height="auto" />  </p>
 
 <!--
 
