@@ -1,7 +1,7 @@
 # Secret Card Club
 
 ## What is it?
-An iOS playing card sandbox game for up to 8 players. It allows users to play most games that use a 52-card deck. Upon starting the app on their phone a user is invited to login or signup and then enter a game room with their friends. The game room is a simple and ituitive sandbox with a 52-card deck and play area. They can play any game they want: Gin, Hearts, Solitaire, and Euchre all work great. Games involving speed or manual dexterity don't translate particularily well. 
+An iOS playing card sandbox game for up to 8 players. It allows users to play most games that use a 52-card deck. Upon starting the app on their phone a user is invited to login or signup and then enter a game room with their friends. The game room is a simple and ituitive sandbox with a 52-card deck and play area. The interactivity of the cards is made with a combination of drag and drop fuctionality, gestures, and menus for less intuitive interactions, like shuffling. Users can play any game they want: Gin, Hearts, Solitaire, and Euchre all work great. Games involving speed or manual dexterity don't translate particularily well. 
 
 ## How is it built?
 The app was build using React-Native, Expo, Styled Components, uWebSockets, PostgreSQL, and Express 
